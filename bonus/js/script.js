@@ -10,6 +10,7 @@ Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 var app = new Vue({
     el: '#root',
     data: {
-        message: "And after all we're only ordinary men",                  
+        message: "And after all we're only ordinary men", 
+        album: "https://m.media-amazon.com/images/I/81aTawcGdmL._AC_SL1500_.jpg"                
     }
 });
